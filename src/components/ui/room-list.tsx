@@ -1,5 +1,5 @@
 import { useRooms } from '@/http/types/use-rooms'
-import { dayjs } from '@/lib/format-date'
+import { dayjs } from '@/lib/dayjs'
 import { ArrowRight } from 'lucide-react'
 import { Link } from 'react-router-dom'
 import { Badge } from './badge'
